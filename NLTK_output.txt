@@ -1,0 +1,105 @@
+EXTRA EXERCISE:
+CHAPTER 2 Exercise 25: 
+According to corpus.udhr the word 'war' is used in languages:
+['Breton-Latin1', 'German_Deutsch-Latin1', 'Somali-Latin1', 'Wolof-Latin1']
+
+CHAPTER 2 EXERCISE 4
+NUM PEOPLE 1291 NUM MEN 228 NUM WOMEN 141
+
+CHAPTER 2 EXERCISE 5
+RANDOM WORD: world.n.01
+PART MERONYMS: [Synset('celestial_body.n.01'), Synset('extraterrestrial_object.n.01')]
+MEMBER MERONYMS: [Synset('galaxy.n.03')]
+SUBSTANCE MERONYMS: []
+MEMBER HOLONYMS: []
+PART HOLONYMS: []
+SUBSTANCE HOLONYMS: []
+
+RANDOM WORD: root.n.01
+PART MERONYMS: [Synset('bark.n.01'), Synset('root_cap.n.01'), Synset('root_hair.n.01')]
+MEMBER MERONYMS: []
+SUBSTANCE MERONYMS: [Synset('parenchyma.n.02')]
+MEMBER HOLONYMS: []
+PART HOLONYMS: [Synset('rootage.n.02')]
+SUBSTANCE HOLONYMS: []
+
+RANDOM WORD: party.n.01
+PART MERONYMS: []
+MEMBER MERONYMS: []
+SUBSTANCE MERONYMS: []
+MEMBER HOLONYMS: [Synset('political_system.n.01')]
+PART HOLONYMS: []
+SUBSTANCE HOLONYMS: []
+
+CHAPTER 2 EXERCISE 7
+Concordance of 'However' in the State of the Union Addresses:
+Displaying 25 of 92 matches:
+ impunity at any mountain retreat - however distant . In this shrinking world ,
+roblems of staggering proportions . However , with the faith of our fathers in 
+interests . Neither do we propose , however , to ignore the ideals and vital in
+challenging task . In my judgment , however , the Council has made encouraging 
+standing accomplishment . We know , however , that nothing is as dangerous as o
+ormation . Certain tendencies are , however , fairly clear and recognition of t
+he next year . This does not mean , however , that continuing full employment i
+yed worker . There always will be , however , some frictional unemployment . In
+nd good will . The Government can , however , help to develop machinery which ,
+cases arising in the months ahead . However , everyone who realizes the extreme
+ the transition from war to peace . However , when deferred demand slackens , w
+ens . We want to keep it that way . However , it is the Government ' s responsi
+f living . As matters stand today , however , food prices are pressing hard aga
+ and as expeditiously as possible . However , we know that there will continue 
+he chief dependence of the farmer , however , as always , must be upon the buyi
+as begun to taper off . Meanwhile , however , plans should be prepared if we ar
+vages of war and enemy occupation , however , have placed a heavy responsibilit
+mployed . On the expenditure side , however , consumers budgets , restricted du
+d impair the reemployment program . However , in order to preserve the fine wor
+s to be expected and is necessary . However , substantial further rescissions c
+ission and certain other agencies , however , I now make specific recommendatio
+nance of our position as a nation , however , will require more emphasis on res
+ of our national welfare . We can , however , enhance its operating efficiency 
+of opinion . Partisan differences , however , did not cause material disagreeme
+trikes and lockouts . We must not , however , adopt punitive legislation . We m
+None
+
+CHAPTER 2 EXERCISE 9
+FIRST TEXT <Text: Wall Street Journal>
+SECOND TEXT <Text: The Book of Genesis>
+Words similar to 'raise' in <Text: Wall Street Journal>
+sell buy as of make be issue keep introduce refund pay receive put
+mature approve join the and brief in
+None
+Words similar to 'raise' in <Text: The Book of Genesis>
+said went closed go take bare came rose lift laid lifted lay yielded
+None
+
+CHAPTER 2 EXERCISE 12
+NUMBER OF WORDS IN CMU DICTIONARY: 123455
+NUMBER OF WORDS WITH SEVERAL PRONOUNCIATIONS: 19523
+
+CHAPTER 2 EXERCISE 17
+50 most Frequent non-stopwords in  Wall Street Journal:
+[('said', 628), ('million', 383), ('new', 328), ('company', 260), ('says', 217), ('year', 214), ('would', 209), ('market', 186), ('stock', 172), ('trading', 167), ('also', 163), ('president', 161), ('billion', 159), ('one', 153), ('program', 140), ('could', 121), ('share', 120), ('years', 115), ('first', 114), ('shares', 114), ('two', 109), ('york', 107), ('last', 104), ('many', 100), ('japanese', 91), ('prices', 89), ('government', 87), ('business', 86), ('may', 82), ('sales', 78), ('even', 76), ('federal', 76), ('say', 75), ('japan', 75), ('make', 74), ('board', 73), ('index', 73), ('recent', 72), ('big', 72), ('exchange', 72), ('price', 72), ('time', 71), ('department', 71), ('futures', 71), ('cents', 70), ('bank', 70), ('group', 69), ('investors', 69), ('stocks', 69), ('funds', 68)]
+
+CHAPTER 2 EXERCISE 18
+50 most common non-stopword bigrams in Book of Genesis
+[(('said', 'unto'), 178), (('thou', 'shalt'), 43), (('thou', 'hast'), 39), (('pray', 'thee'), 38), (('thy', 'seed'), 35), (('LORD', 'God'), 29), (('unto', 'thee'), 29), (('spake', 'unto'), 28), (('God', 'said'), 26), (('ye', 'shall'), 23), (('God', 'hath'), 21), (('thou', 'art'), 21), (('years', 'old'), 21), (('unto', 'Joseph'), 21), (('shalt', 'thou'), 19), (('thy', 'father'), 19), (('LORD', 'said'), 18), (('begat', 'sons'), 17), (('unto', 'Jacob'), 17), (('shall', 'come'), 16), (('let', 'us'), 16), (('unto', 'Abraham'), 16), (('Jacob', 'said'), 16), (('Joseph', 'said'), 16), (('seven', 'years'), 15), (('thy', 'brother'), 14), (('LORD', 'hath'), 14), (('unto', 'us'), 14), (('thy', 'servant'), 14), (('every', 'man'), 13), (('unto', 'Pharaoh'), 13), (('every', 'living'), 12), (('thy', 'wife'), 12), (('unto', 'thy'), 12), (('came', 'unto'), 11), (('bless', 'thee'), 11), (('Pharaoh', 'said'), 11), (('every', 'beast'), 10), (('thirty', 'years'), 10), (('hundred', 'years'), 10), (('thy', 'son'), 10), (('thy', 'brethren'), 10), (('thy', 'servants'), 10), (('God', 'saw'), 9), (('art', 'thou'), 9), (('hast', 'done'), 9), (('five', 'years'), 9), (('appeared', 'unto'), 9), (('came', 'near'), 9), (('Laban', 'said'), 9)]
+
+CHAPTER 2 EXERCISE 23
+ZIPF PLOT confirms inverse relation between rank of word and frequency.
+The Zipf plot also holds for a randomly generated string.
+
+CHAPTER 2 EXERCISE 27
+The average wordnet noun has a polysemy of  1.2833560159282222
+The average wordnet adjective has a polysemy of  1.4104837960813446
+The average wordnet adverb has a polysemy of  1.2532916759651864
+The average wordnet verb has a polysemy of  2.1866273523545225
+
+CHAPTER 3 EXERCISE 20
+Accessing site: https://ion.tjhsst.edu
+First 15 tokens of site (including header):
+['', 'TJ', 'Intranet', '-', 'Login', 'body', '{', 'background-image:', "url('/static/img/patterns/pixel_weave.png');", '}', 'Modernizr.load({', 'test:', 'Modernizr.borderradius,', 'nope:', '"/static/js/vendor/PIE/PIE.js"']
+
+CHAPTER 3 EXERCISE 22
+Accessing site: http://news.bbc.co.uk/
+var domain edition prettyEdition edition pathEdition News Home domain News News News home Home BBC News BBC News for breaking audio and feature BBC News provides trusted World and UK news as well as local and regional Also technology and health BBC false false Promise polyfill from new new new function new new function new new Polyfill Event constructor for IE if return function params params undefined var evt return polyfill if Polyfill if polyfill from if Must be true function of function is if TypeError if undefined or null throw new convert undefined or null to var to for index index var nextSource if Skip over if undefined or null for nextKey in Avoid bugs when hasOwnProperty is shadowed if return true if function params params null var evt return var language language var modal var istatsLabels function var metaTag propertyName propertyName if return else throw new meta tag function var pathName return pathName var additionalPageProperties var page additionalPageProperties function page if return new function function function return return new var stylesheet if function return function return new function return var trackLabels region for label in var linkType return return return return return return return return new if try catch This property is related to see if return var var sanitiseCountry return country if return return return if return new else return return new if else if else function determining return return new if else return return new if else return return return return return return return return return return return return return function return if return else throw new cannot be tracked due to cookies return new could not find require map ptrt new ENDPOINT_URL ENDPOINT_CONFIG ENDPOINT_TRANSLATIONS promiseToString ENDPOINT_URL ENDPOINT_URL idctaShim var var googletag googletag bbcdotcomScripts tp var bbcdotcom require var bbcdotcom function function function return return function function function function return return function if orb typeof if else if orb typeof if if if if if else if if bbcdotcomConfig association sponsored by IE IE IE if initOptimizely var logger Allow Optimizely in these paths var allowPaths Only run on optimizely on homepage if set correct OptimizelyURL for prod or sandbox var optimizelyURL optimizelyURL Set cookie to year 365 if var var gsurl if var clientId lotameUrl lotameAudienceUrl ASYNC waits to make any gpt requests until the bottom of the page if Load Grapeshot and GPT without blocking rendering but executing in order if bbcdotcomScripts var script if Globally available search context solid solid ul solid solid solid solid solid and and and and solid solid solid solid screen and solid solid solid solid solid solid solid solid solid solid solid solid solid solid solid solid solid solid solid screen and solid solid 4px var if my enhancedCSS style if else global bbcdotcom if bbcdotcom if var eles for len if for jLen in window in document in window u10003792750649154 if 6px solid and and u9217038152273744 if u8387378335464746 u4483790821395814 and and and and and and if if if and and and ease ease ease ease if ease ease ease ease if if if u3137876311606189 if if ease ease ease ease if u7495390526019037 u000009547453373670578 if u8148334540892392 if if if if and and and if u6716998794581741 if u26301538292318583 u9207825576886535 16px 44px solid 16px 12px solid 60px 13px 44px 44px solid 16px screen and screen and and screen and and screen and and screen and auto 8px 44px solid 8px 8px 8px 8px 8px if 16px 44px solid 16px 12px solid 60px 13px 44px 44px solid 16px screen and screen and and screen and and screen and and screen and auto 8px 44px solid 8px 8px 8px 8px 8px u7075348934158683 u9701446183025837 if if u26362654170952737 u9147483326960355 if u7550661044660956 u8301716330461204 if if if if ease ease ease ease if if if u790917010512203 solid solid if solid solid solid solid u9751140654552728 if var if if else if googletag typeof wallpaper if if HomepageAccessibility linksSkip to contentAccessibility HelpBBC function the BBCSearch the BBC BBC NewsNews NavigationSectionsHomeHome selectedVideoWorldUS CanadaUKBusinessTechScienceStoriesEntertainment ArtsHealthIn PicturesReality CheckWorld News TVNewsbeatSpecial ReportsExplainersThe ReportersHave Your SayMore More sectionsHomeHome selectedVideoWorldWorld HomeAfricaAsiaAustraliaEuropeLatin AmericaMiddle EastUS CanadaUKUK IrelandScotlandWalesPoliticsLocal NewsBusinessBusiness HomeMarket DataGlobal TradeCompaniesEntrepreneurshipTechnology of BusinessEconomyGlobal EducationGlobal Car IndustryBusiness of SportTechScienceStoriesEntertainment ArtsHealthIn PicturesReality CheckWorld News TVNewsbeatSpecial ReportsExplainersThe ReportersHave Your Say BBC News Home BreakingBreaking newsClose breaking news Latest StoriesMost ReadSkip to most readLatest StoriesMost Read Top StoriesRubber bullets fired at Hong Kong protestersPolice took action as opponents of draft extradition law tried to storm government minutes agoChinaRubber bullets fired at Hong Kong protestersPolice took action as opponents of draft extradition law tried to storm government minutes agoChinaRelated contentLiveProtesters and police face off All you need to know on the hope and saw the Chernobyl workers assess TV seriesA former engineer and diver give their verdicts on how the explosion at the power plant is hours agoEuropeUS runner Grunewald dies aged 32Gabriele the US runner hailed by athletes for her spirit in fighting dies at the age of hours agoBBC Sport CommentsStatement of Or lack of win over Thailand sent social media into meltdown with some very differing hours agoBBC SportWhy is so much of the US under heartland has faced months of Why is it so bad now and the hours agoUS CanadaVideo minute 22 secondsVideo minute 22 minute 22 secondsBaby elephant takes first wobbly stepsThe Asian elephant was born at Pairi Daiza zoo in hours agoEuropeHouthi missile attack on Saudi airport were among those hurt when the missile fired by the Yemeni rebel movement hit Abha hours agoMiddle EastTrump accidentally reveals Mexico migrant planThe US president waves sheet of paper around which has immigration plans written on hours agoUS gang leader thanks policeCarlus who ran violent criminal warns teenagers about being groomed into life of hour agoDerbyFacebook lets deepfake Zuckerberg remainThe social network says it will not remove fake video of its founder created with AI hours agoTechnologyMacron to send Trump replacement friendship treeThe oak sapling will be sent to the US president by leader after the original hours agoEuropeFacebook lets deepfake Zuckerberg remainThe social network says it will not remove fake video of its founder created with AI hours agoTechnologyMacron to send Trump replacement friendship treeThe oak sapling will be sent to the US president by leader after the original hours not aiming for no says JohnsonBut at the launch of his leadership Boris Johnson says the UK leave the EU in hours agoUK Politics CommentsCanadian women hostages rescued in GhanaThe aged 19 and were working as volunteers for hours agoAfricaNirvana and Eminem music in new report claims thousands of classic recordings were destroyed in US warehouse blaze in hours agoEntertainment Arts World CupFollow all the actionEllis at record winLate goals as Sweden see off ChileWhat is the pay gap between women and up on happening today Must the right age to quit to WatchBBC World News TVThe latest global weather and documentariesAudioListen LiveAudioBBC World Service RadioStories from around the worldVideoVideoJon Stewart rebukes Congress over fundVideoVideoTrump and Biden exchange personal insultsVideoVideoWhy is building so slow and we wrapped the Fan takes incredible effort Most watched1VideoBaby elephant takes first wobbly pure Semenya says she take drugs3VideoHow we wrapped the Reichstag4VideoLovers reunited 75 years on from WW25VideoJon Stewart rebukes Congress over fund Full StoryThe surprising benefits of talking to strangersHow reliant are US colleges on Chinese man who saved millions from journey from janitor to are people taking to Hong freeing of Russian journalist Golunov mattersMaren Morris on country problem with sexuality Long ReadsSee always feared go and when had my son dad remember his long echo of WW2 call my stem cell donor my try to talk to my grandad words come Most read1Trump accidentally reveals Mexico migrant plan2Facebook lets deepfake Zuckerberg remain3Rubber bullets fired at Hong Kong saw the Chernobyl workers assess TV series5Chernobyl selfies lead to writer warning6Houthi missile attack on Saudi airport not aiming for no says Johnson8Huawei cancels launch as US ban bites9Nirvana and Eminem music in is so much of the US under Around the BBCThe secret of being good dadBBC FutureHow to tell if close to burnoutBBC CapitalThe mysterious creature roving SloveniaBBC TravelManga shaped how the world sees JapanBBC CultureThe puzzle of ancient brain surgeryBBC EarthHow to build to last yearsBBC FutureAre you overusing the exclamation Capital SportSee AllLivePakistan lose quick wickets in chase against Australia radio Fifa World Cup Germany face Spain in Group BFootballFroome out of Tour de France after crash2h2 hours agoCyclingSuperb Oshoala goal helps Nigeria beat South Korea6m6 minutes agoFootballGatland named British and Irish Lions coach for 2021 South Africa tour5h5 hours agoRugby Union brilliant Oshoala doubles lead1han hour catalogue of as Ali drops an hours agoCricket Find us hereNews daily newsletterGet news from the BBC in your inbox each weekday morningMobile appFind out more about our BBC News AppGet in touchEmail us at an SMS or MMS to 7624 800100Follow Have Your Say on TwitterWhy you can trust BBC News News NavigationSectionsSectionsHomeHome selectedVideoWorldWorld HomeAfricaAsiaAustraliaEuropeLatin AmericaMiddle EastUS CanadaUKUK IrelandScotlandWalesPoliticsLocal NewsBusinessBusiness HomeMarket DataGlobal TradeCompaniesEntrepreneurshipTechnology of BusinessEconomyGlobal EducationGlobal Car IndustryBusiness of SportTechScienceStoriesEntertainment ArtsHealthIn PicturesReality CheckWorld News TVNewsbeatSpecial ReportsExplainersThe ReportersHave Your Say 01 Jan 1970 semi var if my script Explore the with Terms of UseAbout the BBCPrivacy PolicyCookiesAccessibility HelpParental GuidanceContact the BBCGet Personalised NewslettersCopyright 2019 The BBC is not responsible for the content of external Read about our approach to external var var var previousPosition var delta var PROMO_SHOW_BREAKPOINT var pageLength function Suppress this feature on browsers we no longer test var myNav var oldIE if function var disabledByCookie if function if function offsetHeight is expensive to only do it pageLength if 300 pageLength else function didScroll scrollCheckTimer if didScroll function function return function return function var currentPosition if if if previousPosition if function var loadNotifications function if if Use new API from Orbit if available else Fallback to fig var orbFig if if if if var wwhpEdition var CONFIGURATION START Homepage CONFIGURATION END function var var oldonload loadChartbeat false if if function void exception occurred while adding idcta labels to invoking istats without new must be an new must be number between and new must be specified in pixels or new must be new must be an function instanceof instanceof var elements var assetIds return var script
+
